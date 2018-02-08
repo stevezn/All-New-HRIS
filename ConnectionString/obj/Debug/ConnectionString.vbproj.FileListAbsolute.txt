@@ -1,0 +1,9 @@
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\bin\Debug\ConnectionString.dll
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\bin\Debug\ConnectionString.xml
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\bin\Debug\MySql.Data.dll
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\obj\Debug\ConnectionString.Resources.resources
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\obj\Debug\ConnectionString.vbproj.GenerateResource.Cache
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\obj\Debug\ConnectionString.dll
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\obj\Debug\ConnectionString.xml
+C:\Users\IT-Steven\Documents\Visual Studio 2015\Projects\All New HRIS\ConnectionString\obj\Debug\ConnectionString.pdb
